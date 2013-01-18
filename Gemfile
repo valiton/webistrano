@@ -1,7 +1,8 @@
 source "http://rubygems.org"
 
-gem 'bundler', "~>1.0.10"
-gem "rails", "2.3.11"
+# gem 'bundler', "~>1.0.10"
+gem 'bundler'
+gem "rails", "2.3.15"
 gem "daemons", "~> 1.0.3"
 gem "mongrel"
 gem "mysql"
